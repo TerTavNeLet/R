@@ -1,2 +1,2 @@
-# r
+# R
 Trabajos realizados en R
